@@ -10,8 +10,6 @@ return {
   { import = "astrocommunity.pack.thrift" },
   { import = "astrocommunity.pack.bash" },
   { import = "astrocommunity.pack.cmake" },
-  { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.python" },
-  { import = "astrocommunity.pack.sql" },
   -- import/override with your plugins folder
 }
